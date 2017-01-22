@@ -1,0 +1,7 @@
+{
+  "name": "chokidar-vscode-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "chokidar": "^1.6.1"
+  }
+}
